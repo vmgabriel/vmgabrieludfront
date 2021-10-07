@@ -1,0 +1,26 @@
+[
+  {
+    "pk": 1,
+    "model": "vmgabrieludfront.cameraperiphepal",
+    "fields": {
+      "camera": 1,
+      "periphepal": 1
+    }
+  },
+  {
+    "pk": 2,
+    "model": "vmgabrieludfront.cameraperiphepal",
+    "fields": {
+      "camera": 1,
+      "periphepal": 1
+    }
+  },
+  {
+    "pk": 3,
+    "model": "vmgabrieludfront.cameraperiphepal",
+    "fields": {
+      "camera": 1,
+      "periphepal": 1
+    }
+  }
+]
